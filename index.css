@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "BMJUA";
+    src: url("./BMJUA_ttf.ttf");
+}
+body {
+    background-color: aqua;
+}
+p {
+    font-family: "BMJUA";
+    font-size: 35px;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    text-align: center;
+}
